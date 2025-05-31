@@ -23,7 +23,7 @@ Gracias a esto, se puede volver a versiones anteriores, colaborar en equipo y ma
 ## Opinión personal
 
 ````
-Elegí **GitHub** porque tiene una gran comunidad, es fácil de usar, y es ampliamente aceptado tanto en entornos 
+Elegí GitHub porque tiene una gran comunidad, es fácil de usar, y es ampliamente aceptado tanto en entornos 
 académicos como profesionales. Además, ya tengo experiencia con esta herramienta.
 ````
 ---
