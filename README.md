@@ -1,7 +1,7 @@
 # versionamiento-practica  (∪.∪ )...zzz
 
 **Nombre:** Raul Emmanuel Zamora Perez 
-**Carrera y grupo:** Ingeniería en desarollo y Gestion de software, 9A
+**Carrera** DGS 9A
 
 ---
 
@@ -23,7 +23,6 @@ Gracias a esto, se puede volver a versiones anteriores, colaborar en equipo y ma
 ## Opinión personal
 
 Elegí **GitHub** porque tiene una gran comunidad, es fácil de usar, y es ampliamente aceptado tanto en entornos 
-académicos como profesionales. Además, su integración con GitHub Actions permite automatizar flujos de trabajo fácilmente.
-
+académicos como profesionales. Además, ya tengo experiencia con esta herramienta.
 ---
 
